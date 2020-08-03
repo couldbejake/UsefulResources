@@ -1,4 +1,4 @@
-**STABLE**
+** **STABLE/UNSORTED** **
 
 - https://tympanus.net/Tutorials/CSSGlitchEffect/
 - https://leaverou.github.io/css3patterns/
@@ -17,16 +17,25 @@
 - https://creativecloud.adobe.com/
 - https://the-goonies.webflow.io/
 - https://encycolorpedia.com/fedbb7
-- https://brandpalettes.com/
+
+**AMAZING UI RESOURCES**
 - https://www.instagram.com/cyborg_melancholy/
-- https://developer.mozilla.org/en-US/docs/Web/CSS/radial-gradient
-- https://psd-to-css-shadows.com/
-- https://www.w3schools.com/css/
 - https://cambridgequantum.com/
-- https://itsfoss.com/linux-zip-folder/
 - https://www.facebook.com/avatarmaker.net/
+- https://www.w3schools.com/css/
+- https://psd-to-css-shadows.com/
+- https://brandpalettes.com/
+- https://coolors.co/
+- https://developer.mozilla.org/en-US/docs/Web/CSS/radial-gradient
+
+**HOMEBREW**
 - https://brew.sh/
 - https://www.balena.io/
+
+**LINUX**
+- https://itsfoss.com/linux-zip-folder/
+
+
 
 
 **EXPERIMENTAL**

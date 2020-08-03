@@ -18,7 +18,7 @@
 - https://the-goonies.webflow.io/
 - https://encycolorpedia.com/fedbb7
 
-**AMAZING UI RESOURCES**
+AMAZING **UI RESOURCES**
 - https://www.instagram.com/cyborg_melancholy/
 - https://cambridgequantum.com/
 - https://www.facebook.com/avatarmaker.net/
@@ -35,9 +35,6 @@
 **LINUX**
 - https://itsfoss.com/linux-zip-folder/
 
-
-
-
 **EXPERIMENTAL**
 
 - Surround your GitHub code with the following to remove all text formatting from **GITHUB**:
@@ -46,7 +43,7 @@
   **Hello! Example Text.**
 </div>
 
-- Add a classy Material ( GOOGLE ) Blur to your webpage with a simple experimental CSS hack:
+- Add a classy Material ( *Googl* / Google ) Blur to your webpage with a simple experimental CSS hack:
       
 "                     ```backdrop-filter: blur(2px);```                     "
 

@@ -1,4 +1,4 @@
-** **STABLE/UNSORTED** **
+** **STABLE** / ( UNSORTED ) **
 
 - https://tympanus.net/Tutorials/CSSGlitchEffect/
 - https://leaverou.github.io/css3patterns/

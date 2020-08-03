@@ -41,6 +41,6 @@
       
 "                     ```backdrop-filter: blur(2px);```                     "
 
-                             **WITH** 
+                                          **WITH** 
                              
 "             ```background-color: rgba(255, 255, 255, 0.1);```              "

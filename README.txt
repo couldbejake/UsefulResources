@@ -23,3 +23,4 @@ https://www.w3schools.com/css/
 https://cambridgequantum.com/
 https://itsfoss.com/linux-zip-folder/
 https://www.facebook.com/avatarmaker.net/
+https://brew.sh/

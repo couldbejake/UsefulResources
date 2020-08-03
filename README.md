@@ -32,6 +32,7 @@
 **EXPERIMENTAL**
 
 - Surround your GitHub code with the following to remove all text formatting from **GITHUB**:
+
 <div style="text-align:center">
   **Hello! Example Text.**
 </div>
@@ -39,5 +40,7 @@
 - Add a classy Material ( GOOGLE ) Blur to your webpage with a simple experimental CSS hack:
       
 "                     ```backdrop-filter: blur(2px);```                     "
+
                              **WITH** 
+                             
 "             ```background-color: rgba(255, 255, 255, 0.1);```              "

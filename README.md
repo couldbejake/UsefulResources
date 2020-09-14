@@ -38,16 +38,7 @@ AMAZING **UI RESOURCES**
 
 **EXPERIMENTAL**
 
-- Surround your GitHub code with the following to remove all text formatting from **GITHUB**:
 
-<div style="text-align:center">
-  **Hello! Example Text.**
-</div>
-
-- Add a classy Material ( *Googl* / Google ) Blur to your webpage with a simple experimental CSS hack:
+- Add a classy Material Blur to your webpage with a simple experimental CSS hack:
       
-"                     ```backdrop-filter: blur(2px);```                     "
-
-                                                             WITH 
-                             
-"             ```background-color: rgba(255, 255, 255, 0.1);```              "
+```background-color: rgba(255, 255, 255, 0.1);``` with ```backdrop-filter: blur(2px);```

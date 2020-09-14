@@ -27,7 +27,7 @@ Here are a list of my bookmarks, hopefully you find the sites listed below inter
 
 **HOMEBREW**
 - https://brew.sh/
-- https://www.balena.io/
+- https://www.balena.io/etcher/
 
 **LINUX**
 - https://itsfoss.com/linux-zip-folder/

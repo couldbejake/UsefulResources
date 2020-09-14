@@ -20,14 +20,10 @@
 - https://www.evidentsoftware.co.uk/
 
 AMAZING **UI RESOURCES**
-- https://www.instagram.com/cyborg_melancholy/
-- https://cambridgequantum.com/
-- https://www.facebook.com/avatarmaker.net/
-- https://www.w3schools.com/css/
 - https://psd-to-css-shadows.com/
 - https://brandpalettes.com/
 - https://coolors.co/
-- https://developer.mozilla.org/en-US/docs/Web/CSS/radial-gradient
+
 
 **HOMEBREW**
 - https://brew.sh/
@@ -35,6 +31,15 @@ AMAZING **UI RESOURCES**
 
 **LINUX**
 - https://itsfoss.com/linux-zip-folder/
+
+**FRIENDS**
+- https://www.instagram.com/cyborg_melancholy/
+- https://cambridgequantum.com/
+
+**OTHER**
+- https://www.facebook.com/avatarmaker.net/
+- https://developer.mozilla.org/en-US/docs/Web/CSS/radial-gradient
+- https://www.w3schools.com/css/
 
 **EXPERIMENTAL**
 

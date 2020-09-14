@@ -1,4 +1,4 @@
-** **STABLE** / ( STC ) **
+** **STABLE** **
 
 - https://tympanus.net/Tutorials/CSSGlitchEffect/
 - https://leaverou.github.io/css3patterns/

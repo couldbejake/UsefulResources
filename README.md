@@ -1,3 +1,5 @@
+Here are a list of my bookmarks, hopefully you find the sites listed below interesting or insightful.
+
 ** **STABLE** **
 
 - https://tympanus.net/Tutorials/CSSGlitchEffect/
@@ -7,19 +9,17 @@
 - https://aleclownes.com/2017/02/01/crt-display.html
 - https://stackoverflow.com/questions/22356012/multiple-points-colors-gradient-on-html5-canvas
 - https://tutorialsdojo.com/aws-cheat-sheet-aws-step-functions/
+
 - https://easings.net/
-- https://css-tricks.com/
 - https://my.eng.utah.edu/~cs5780/debouncing.pdf
-- https://beta.apple.com/
-- http://quantum-keys.com/
+
+- https://css-tricks.com/
 - https://stackoverflow.com/questions/3437786/get-the-size-of-the-screen-current-web-page-and-browser-window
 - https://app.simplenote.com/
 - https://creativecloud.adobe.com/
 - https://the-goonies.webflow.io/
 - https://encycolorpedia.com/fedbb7
 - https://www.evidentsoftware.co.uk/
-
-AMAZING **UI RESOURCES**
 - https://psd-to-css-shadows.com/
 - https://brandpalettes.com/
 - https://coolors.co/
@@ -40,6 +40,7 @@ AMAZING **UI RESOURCES**
 - https://www.facebook.com/avatarmaker.net/
 - https://developer.mozilla.org/en-US/docs/Web/CSS/radial-gradient
 - https://www.w3schools.com/css/
+- https://beta.apple.com/
 
 **EXPERIMENTAL**
 

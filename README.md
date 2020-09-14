@@ -39,6 +39,6 @@ AMAZING **UI RESOURCES**
 **EXPERIMENTAL**
 
 
-- Add a classy Material Blur to your webpage with a simple experimental CSS hack:
+- Add a classy Material Blur to your webpage:
       
 ```background-color: rgba(255, 255, 255, 0.1);``` with ```backdrop-filter: blur(2px);```
